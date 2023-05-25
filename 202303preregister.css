@@ -100,9 +100,9 @@ body {
 
 .mainFg {
     position: absolute;
-    top: 50%;
-    left: 40%;
-    transform: translateX(-50%);
+    top: 60%;
+    left: 50%;
+    transform: translateX(0%);
     z-index: 2;
     width: 40%;
     animation: slide-top 2s linear infinite alternate both;
@@ -259,7 +259,7 @@ body {
         top: 5%;
     }
     .bg-box {
-        height: 10vh;
+        height: 25vh;
     }
 }
 
